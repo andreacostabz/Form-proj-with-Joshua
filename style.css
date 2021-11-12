@@ -62,6 +62,7 @@ label, div, p {
 	display: block;
 	margin-bottom: 10px;
 	padding: 0 30px;
+    font-size: 25px;
 }
 body{
     background: rgb(2,0,36);
