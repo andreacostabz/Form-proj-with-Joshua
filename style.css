@@ -47,7 +47,7 @@ table {
 
 /**********************************/
 
-#title #description {
+#title, #description {
 	color: white;
 }
 
