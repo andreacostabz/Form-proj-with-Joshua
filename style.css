@@ -28,9 +28,6 @@ body {
 	line-height: 1;
 }
 
-h1 #title{
-    font-size: large;
-}
 ol, ul {
 	list-style: none;
 }
@@ -48,21 +45,20 @@ table {
     
 }
 
-label, div, p {
+label {
 	display: block;
 	margin-bottom: 10px;
 }
-body {
+body{
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); 
 }
 
-form {
+form{
+    margin-top: 20px;
     box-sizing: border-box;
     border: 2px solid black;
     background-color: blanchedalmond;
-}
-
-.form-control {
-	width: 100%;
+    height: 700px;
+    width: 600px;
 }
