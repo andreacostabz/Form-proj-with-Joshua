@@ -57,6 +57,7 @@ table {
 label, div, p {
 	display: block;
 	margin-bottom: 10px;
+	padding: 0 30px;
 }
 body{
     background: rgb(2,0,36);
@@ -74,4 +75,5 @@ form{
 
 .basic-input {
 	width: 100%;
+	margin-top: 10px;
 }
