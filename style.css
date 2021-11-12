@@ -45,7 +45,13 @@ table {
     
 }
 
-label {
+/**********************************/
+
+#title, #description {
+	color: white;
+}
+
+label, div, p {
 	display: block;
 	margin-bottom: 10px;
 }
@@ -63,3 +69,6 @@ form{
     width: 600px;
 }
 
+.basic-input {
+	width: 100%;
+}
