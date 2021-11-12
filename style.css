@@ -54,6 +54,12 @@ table {
 
 /**********************************/
 
+#title {
+	margin-top: 50px;
+	font-size: 21px;
+	font-weight: bold;
+}
+
 #title, #description {
 	color: white;
 }
