@@ -46,6 +46,7 @@ table {
 
 label {
 	display: block;
+	margin-bottom: 10px;
 }
 body{
     background: rgb(2,0,36);
