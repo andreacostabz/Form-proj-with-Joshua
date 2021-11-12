@@ -44,7 +44,7 @@ table {
     
 }
 
-label {
+label, div, p {
 	display: block;
 	margin-bottom: 10px;
 }
