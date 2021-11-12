@@ -81,6 +81,13 @@ form{
 
 .basic-input, select {
 	width: 100%;
-
 	margin-top: 10px;
+}
+
+.languages {
+	text-align: left;
+}
+
+.foods {
+	text-align: left;
 }
