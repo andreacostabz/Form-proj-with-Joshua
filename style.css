@@ -68,3 +68,7 @@ form{
     height: 700px;
     width: 600px;
 }
+
+.basic-input {
+	width: 100%;
+}
