@@ -27,6 +27,10 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
+h1 #title{
+    font-size: large;
+}
 ol, ul {
 	list-style: none;
 }
