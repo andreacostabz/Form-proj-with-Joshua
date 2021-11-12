@@ -54,8 +54,15 @@ table {
 
 /**********************************/
 
+#title {
+	margin-top: 50px;
+	font-size: 35px;
+	font-weight: bold;
+}
+
 #title, #description {
 	color: white;
+	margin-bottom: 20px;
 }
 
 label, div, p {
@@ -82,6 +89,10 @@ form{
 .basic-input, select {
 	width: 100%;
 	margin-top: 10px;
+}
+
+.main-label {
+	
 }
 
 .languages {
