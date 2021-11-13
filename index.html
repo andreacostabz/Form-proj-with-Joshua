@@ -31,7 +31,7 @@
 			<input type="number" id="number" name="age" min=0 max=100 placeholder="Input you Number" class="form-control basic-input">
 		</label>
 
-		<label for="dropdown" class="main-label" id="dropdown">
+		<label for="dropdown" class="second-label">
 			Select something from here
 			<select id="dropdown">
 				<option value="">Option 1</option>
@@ -41,7 +41,7 @@
 			<br>
 		</label>
 
-		<label class="main-label">What's your favorite programming language</label>
+		<label class="second-label">What's your favorite programming language</label>
 
 		<label for="html" class="languages">
 			<input type="radio" id="html" name="fav_language" value="HTML">
@@ -53,12 +53,12 @@
 			CSS
 		</label>
 
-		<label for="javascript" class="languages">
+		<label for="javascript" class="languages" id="lastLanguages">
 			<input type="radio" id="javascript" name="fav_language" value="JavaScript">
 			JavaScript
 		</label> 
 
-		<div class="form-group" class="main-label">
+		<div class="form-group" class="second-label" id="comments">
 			<p>Any comments or suggestions?</p>
 			<textarea
 			  id="comments"
@@ -71,7 +71,7 @@
 		</div>
 
 
-		<label class="foods" class="main-label">
+		<label class="foods" class="second-label">
 			<label>What do you want to eat?</label>
 			<label>
 				<input type="checkbox" id="checkbox1" name="checkbox" value="first">

@@ -92,12 +92,21 @@ form{
 	margin-top: 10px;
 }
 
+.second-label {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
 .main-label {
-	margin-top: 10px 0;
+	margin-top: 10p;
 }
 
 .languages {
 	text-align: left;
+}
+
+#lastLanguages, #comments {
+	margin-bottom: 30px;
 }
 
 .foods {
